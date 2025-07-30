@@ -44,7 +44,7 @@ recipe_sharing_api/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sadam-Barkat/recipe_sharing_api.git
 cd recipe_sharing_api
 ```
 
@@ -280,4 +280,4 @@ If you encounter any issues:
 
 **Happy Cooking! 🍳👨‍🍳**
 
-*Built with ❤️ using FastAPI and Streamlit* 
+*Built with ❤️ using FastAPI and Streamlit*
